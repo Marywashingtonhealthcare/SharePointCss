@@ -1,0 +1,20 @@
+/*Style SP List (will not work with grouped lists)*/
+
+<style type="text/css">
+ 
+
+.ms-listviewtable > thead > tr > th {
+ background-color: #5B9BD5;
+}
+ 
+
+.ms-vh-div, .ms-headerSortTitleLink, .ms-vb {
+color:white!important; font-weight: bold;
+font-size: 20px;
+}
+
+.ms-listviewtable > tbody > tr.ms-alternating {
+background: #DDEBF7
+}
+
+</style>
