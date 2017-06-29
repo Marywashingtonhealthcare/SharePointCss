@@ -18,10 +18,12 @@ font-size: 20px;
 background: #DDEBF7
 }
 
-/* This changes the font in the individual cells of a list.*/
+/* This changes the font in the individual cells of a list. You can also add padding here*/
 .ms-vb2, .ms-vb {
     font-size: 14pt;
     font-weight: bold;
+    padding-left: 25px!important;
 }
+
 
 </style>
