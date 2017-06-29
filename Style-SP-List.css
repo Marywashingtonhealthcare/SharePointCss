@@ -21,6 +21,7 @@ background: #DDEBF7
 /* This changes the font in the individual cells of a list.*/
 .ms-vb2, .ms-vb {
     font-size: 14pt;
+    font-weight: bold;
 }
 
 </style>
