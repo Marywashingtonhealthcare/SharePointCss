@@ -2,19 +2,25 @@
 
 <style type="text/css">
  
-
+/*This changes the background color of the header row*/
 .ms-listviewtable > thead > tr > th {
  background-color: #5B9BD5;
 }
  
-
+/*This changes the header row font*/
 .ms-vh-div, .ms-headerSortTitleLink, .ms-vb {
 color:white!important; font-weight: bold;
 font-size: 20px;
 }
 
+/*This changes the background of a row to a color you choose*/
 .ms-listviewtable > tbody > tr.ms-alternating {
 background: #DDEBF7
+}
+
+/* This changes the font in the individual cells of a list.*/
+.ms-vb2, .ms-vb {
+    font-size: 14pt;
 }
 
 </style>
