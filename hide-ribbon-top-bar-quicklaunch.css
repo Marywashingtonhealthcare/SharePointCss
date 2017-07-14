@@ -1,8 +1,26 @@
 <style type="text/css">
 
+
+
+/*
+    #s4-ribbonrow (gets rid of the ribbon completely)
+    .ms-cui-topbar2 (unsure, does not remove ribbon)
+    .s4-notdlg (removes right dialog icons on ribbon bar)
+    .s4-pr(unsure, didn't see any change)
+    .s4-ribbonrowhidetitle (unsure, didn't see anything)
+    .s4-notdlg noindex (unsure, didn't see anything change)
+    #ms-cui-ribbonTopBars (unsure, didn't see anything change)
+    #s4-titlerow (removes the title row)
+    #s4-pr s4-notdlg s4-titlerowhidetitle (unsure, didn't see anything change)
+    #s4-leftpanel-content (unsure, didn't see anything change.)
+    
+    
+    */
 #s4-ribbonrow, .ms-cui-topBar2, .s4-notdlg, .s4-pr s4-ribbonrowhidetitle, .s4-notdlg noindex, #ms-cui-ribbonTopBars, #s4-titlerow, #s4-pr s4-notdlg s4-titlerowhidetitle, #s4-leftpanel-content {display:none !important;
 }
 
+
+/*The following 3 collapse left Navigation*/
 .s4-ca {margin-left:0px !important; margin-right:0px !important;
 }
 
